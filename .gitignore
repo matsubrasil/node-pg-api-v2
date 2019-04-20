@@ -9,6 +9,9 @@ yarn.lock
 # Lock
 package-lock.json
 
+# Lock
+package-lock.json
+
 # Runtime data
 pids
 *.pid
